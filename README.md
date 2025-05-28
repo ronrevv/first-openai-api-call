@@ -20,9 +20,10 @@ This project demonstrates how to make your first API call to OpenAI's GPT-3.5 Tu
 ```bash
 git clone https://github.com/ronrevv/first-openai-api-call.git
 cd first-openai-api-call
-
+```
 
 ### Install dependency
-npm install
+```npm install```
 
-create env and give the api key as
+### Create env and give the api key as ```.env```
+```OPENAI_API_KEY = ""```
