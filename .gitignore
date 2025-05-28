@@ -3,14 +3,3 @@ node_modules/
 
 # Environment variable files
 .env
-
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# OS-specific files
-.DS_Store
-
-# Optional: VS Code workspace settings
-.vscode/

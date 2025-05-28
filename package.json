@@ -1,0 +1,24 @@
+{
+  "name": "first-openai-api-call",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to make your first API call to OpenAI's GPT-3.5 Turbo model using Node.js. It takes a user prompt from the console, sends it to the OpenAI API along with a fixed system prompt, and displays the assistant’s response along with token usage.",
+  "main": "first_call.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronrevv/first-openai-api-call.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronrevv/first-openai-api-call/issues"
+  },
+  "homepage": "https://github.com/ronrevv/first-openai-api-call#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.103.0"
+  }
+}
