@@ -27,3 +27,6 @@ cd first-openai-api-call
 
 ### Create env and give the api key as ```.env```
 ```OPENAI_API_KEY = ""```
+
+### Now run with
+```node first_call.js```
